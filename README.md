@@ -1,10 +1,10 @@
 # Google Landing Page (HC-02)
-## Description
-# Project aims to create google landing page.
-# Problem Statement
+ Description
+ Project aims to create google landing page.
+ Problem Statement
     Your company has recently started on a project that aims to create a landing page. So you and your colleagues have started to work on the project.
 
-# Project Skeleton
+Project Skeleton
 
     google-landing-page (folder)
     |
